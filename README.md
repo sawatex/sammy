@@ -1,0 +1,2 @@
+# sammy
+For learning purposes
